@@ -1,0 +1,83 @@
+﻿  ConsoleApplication13.cpp
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(6,2): error C3769: Stringg: содержащий и непосредственно вложенный в него классы не могут иметь одинаковые имена
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(22,3): error C3769: Stringg: содержащий и непосредственно вложенный в него классы не могут иметь одинаковые имена
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(11,10): error C2039: "Print": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(12,34): error C2039: "GetSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(13,39): error C2039: "GetUsedSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(20,17): error C2440: инициализация: невозможно преобразовать "int" в "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(20,17): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(22,10): error C2039: "Print": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(23,34): error C2039: "GetSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(24,39): error C2039: "GetUsedSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(32,17): error C2440: инициализация: невозможно преобразовать "initializer list" в "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(32,17): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(34,10): error C2039: "Print": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(35,34): error C2039: "GetSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(36,39): error C2039: "GetUsedSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(41,10): error C2039: "Print": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(42,34): error C2039: "GetSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(43,39): error C2039: "GetUsedSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+  Stringg.cpp
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(6,2): error C3769: Stringg: содержащий и непосредственно вложенный в него классы не могут иметь одинаковые имена
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(22,3): error C3769: Stringg: содержащий и непосредственно вложенный в него классы не могут иметь одинаковые имена
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(5,10): error C2600: Stringg::Stringg: нельзя определить специальную функцию-член, созданную компилятором (сначала необходимо объявить ее в классе)
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(7,2): error C2065: str: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(5,10): message : Сообщение диагностики возникло в созданной компилятором функции "Stringg::Stringg(void)"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(8,8): error C2039: "size": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(5,10): message : Сообщение диагностики возникло в созданной компилятором функции "Stringg::Stringg(void)"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(9,2): error C2065: usedsize: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(5,10): message : Сообщение диагностики возникло в созданной компилятором функции "Stringg::Stringg(void)"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(10,9): error C2065: str: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(5,10): message : Сообщение диагностики возникло в созданной компилятором функции "Stringg::Stringg(void)"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(11,2): error C3861: usedsizer: идентификатор не найден
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(5,10): message : Сообщение диагностики возникло в созданной компилятором функции "Stringg::Stringg(void)"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(14,10): error C2511: Stringg::Stringg(int): перегруженная функция-член не найдена в "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(16,2): error C2065: str: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(17,2): error C2671: Stringg::{ctor}: статические функции-члены не имеют указателей "this"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(18,2): error C2065: usedsize: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(19,9): error C2065: str: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(20,2): error C3861: usedsizer: идентификатор не найден
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(23,10): error C2511: Stringg::Stringg(char *,int): перегруженная функция-член не найдена в "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(25,2): error C2671: Stringg::{ctor}: статические функции-члены не имеют указателей "this"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(26,2): error C2671: Stringg::{ctor}: статические функции-члены не имеют указателей "this"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(27,2): error C3861: usedsizer: идентификатор не найден
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(30,10): error C2511: Stringg::Stringg(Stringg::Stringg *): перегруженная функция-член не найдена в "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(32,2): error C2671: Stringg::{ctor}: статические функции-члены не имеют указателей "this"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(33,2): error C2671: Stringg::{ctor}: статические функции-члены не имеют указателей "this"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(34,2): error C2671: Stringg::{ctor}: статические функции-члены не имеют указателей "this"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(37,14): error C2039: "GetUsedSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(39,9): error C2065: usedsize: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(42,16): error C2039: "GetStr": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(44,9): error C2065: str: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(47,15): error C2039: "usedsizer": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(53,3): error C2065: usedsize: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(54,11): error C2065: str: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(57,15): error C2039: "Print": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(59,10): error C2065: str: необъявленный идентификатор
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(62,14): error C2039: "GetSize": не является членом "Stringg".
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.h(2,7): message : см. объявление "Stringg"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(64,13): error C2563: несоответствие в списке формальных параметров
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(64,13): error C2568: return: не удается разрешить перегрузку функции
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(64,13): message : может быть "size_t std::size(const _Ty (&)[_Size]) noexcept"
+C:\Users\bmxdi\source\repos\ConsoleApplication13\ConsoleApplication13\Stringg.cpp(64,13): message : или       "unknown-type std::size(const _Container &) noexcept(<expr>)"
+  Создание кода...
